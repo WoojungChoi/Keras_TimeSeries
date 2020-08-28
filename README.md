@@ -11,4 +11,4 @@
 
 ---
 
-![Image](/image1.PNG)
+![Image](image/image1.PNG)
